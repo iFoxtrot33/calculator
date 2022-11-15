@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/iFoxtrot33/calculator/issues"
   },
-  "homepage": "https://github.com/iFoxtrot33/calculator#readme"
+  "homepage": "https://github.com/iFoxtrot33/calculator#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
