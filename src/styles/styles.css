@@ -83,3 +83,38 @@ input[type="text"] {
   font-size: 20px;
   transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
 }
+
+.btn.btn-grow {
+  flex-grow: 1;
+  border-radius: 40px;
+}
+
+.btn:hover {
+  transform: translate(-2px, -3px);
+}
+
+.btn.active {
+  background-color: #ffffff;
+  color: #f69906;
+}
+
+.btn-grey {
+    background-color: #9f9f9f;
+    color: #000;
+  }
+  .btn-grey:hover {
+    background-color: #ededed;
+  }
+  
+  .btn-dark-grey {
+    background-color: #313131;
+  }
+  .btn-dark-grey:hover {
+    background-color: #999999;
+  }
+  .btn-orange {
+    background-color: #f69906;
+  }
+  .btn-orange:hover {
+    background-color: orange;
+  }
