@@ -19,7 +19,6 @@ http://calculatorforiphone.surge.sh/
 ![](https://github.com/iFoxtrot33/stopwatch/actions/workflows/lintCheck.yml/badge.svg)
 
 ## Demo picture
-http://calculatorforiphone.surge.sh/
 ![2022-11-16_20-49-27](https://user-images.githubusercontent.com/102408798/202242972-18ce79d4-678b-403c-a03f-f9cb7c5cfa7c.png)
 
 ## 🛠Stack:
