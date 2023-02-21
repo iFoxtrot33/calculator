@@ -12,7 +12,7 @@ http://calculatorforiphone.surge.sh/
 2)cd calculator-test
 3)make install
 4)make start
-
+```
 ## Code climate tests:
 <a href="https://codeclimate.com/github/iFoxtrot33/calculator/maintainability"><img src="https://api.codeclimate.com/v1/badges/bbfb8b3b240512f7994d/maintainability" /></a>
 
